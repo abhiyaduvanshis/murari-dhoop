@@ -4,7 +4,7 @@ export default function Contactus(){
     return(
         <section className="overflow-hidden pt-20 pb-16 bg-[url(https://html.kodesolution.com/2024/amiso-php/images/icons/shape.png)] bg-left-top bg-no-repeat">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 static w-full">
-                <div className="flex container z-10 justify-center">
+                <div className="flex container z-10 justify-center" id="contactUs">
                     <div className="w-1/2">
                         <p className="text-xl"><span className="text-[#e91e21] ">//</span> Contact Now</p>
                         <h2 className="font-bold xl:text-4xl text-2xl pt-4 mb-2">Get in touch with us</h2>

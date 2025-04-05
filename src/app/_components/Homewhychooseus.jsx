@@ -5,7 +5,7 @@ export default function Homewhychooseus(){
         <section className="pt-20 pb-16 relative">
             <div className="absolute bg-[url(https://html.kodesolution.com/2024/amiso-php/images/icons/pattern-1.jpg)] bg-no-repeat lg:w-5xl top-0 left-0 h-full"></div>
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 static w-full">
-               <div className="container z-10 grid xl:grid-cols-2 gap-4">
+               <div className="container z-10 grid xl:grid-cols-2 gap-4" id="Why-Choose-Us">
                     <div className="">
                         <p className="text-xl"><span className="text-[#e91e21] ">//</span> Get to Know</p>
                         <h2 className="font-bold xl:text-4xl text-2xl pt-4 mb-2">Why Choose Us?</h2>

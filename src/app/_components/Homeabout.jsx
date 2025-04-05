@@ -4,7 +4,7 @@ export default function Homeabout(){
     return(
         <section className="overflow-hidden pt-20 pb-16 bg-[url(https://html.kodesolution.com/2024/amiso-php/images/icons/shape.png)] bg-right-top bg-no-repeat">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 static w-full">
-                <div className="container grid xl:grid-cols-2 gap-4">
+                <div className="container grid xl:grid-cols-2 gap-4" id="About-Us">
                     <div className="flex justify-center">
                         <img className="animate-fade-in" src="/assets/images/jm.png"/>
                     </div>
