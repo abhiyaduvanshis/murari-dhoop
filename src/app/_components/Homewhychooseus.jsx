@@ -46,7 +46,7 @@ export default function Homewhychooseus(){
                         </div>
                     </div>
                     <div className="relative">
-                        <img className="absolute w-full" src="/assets/images/dhoopbatti.jpg"/>
+                        <img className="lg:absolute w-full" src="/assets/images/dhoopbatti.jpg"/>
                     </div>
                </div>
             </div>
