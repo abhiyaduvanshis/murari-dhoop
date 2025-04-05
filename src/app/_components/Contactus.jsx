@@ -45,6 +45,9 @@ export default function Contactus(){
                             placeholder="Enter Message"
                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#e91e21] focus:border-[#e91e21] block w-full p-4 dark:bg-[#e91e21] dark:border-[#e91e21] dark:placeholder-gray-400 dark:text-white dark:focus:ring-[#e91e21] dark:focus:border-[#e91e21]"></textarea>
                         </div>
+                        <div className="mt-4">
+                            <button className="bg-[#e91e21b5] text-white py-4 px-8 font-bold rounded-md  hover:bg-[#e91e21]">Submit</button>
+                        </div>
                     </div>
                     <div className="animate-fade-right ">
                         
