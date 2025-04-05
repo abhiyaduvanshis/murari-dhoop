@@ -11,9 +11,9 @@ export default function Footer(){
         </footer>
 
         <footer  className="w-full bg-[#f9fafb]">
-            <div className="max-w-screen-xl lg:flex mx-auto p-4 static w-full">
-                <a href="https://gyanimeter.co.in/portfolio/abhishek-singh" className="text-black text-center w-full text-sm">Developed by Abhishek Singh</a>
-                <a href="http://gyanimeter.co.in/" className="text-black text-center w-full text-sm">Website: http://gyanimeter.co.in/</a>
+            <div className="max-w-screen-xl lg:flex mx-auto p-4 static w-full text-center">
+                <a href="https://gyanimeter.co.in/portfolio/abhishek-singh" className="text-[#e91e21] text-center w-full text-sm">Developed by Abhishek Singh</a>
+                <a href="http://gyanimeter.co.in/" className="text-[#e91e21] text-center w-full text-sm">Website: http://gyanimeter.co.in/</a>
             </div>
         </footer>
         </>
